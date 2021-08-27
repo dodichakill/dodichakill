@@ -12,6 +12,4 @@
 Here are some ideas to get you started:
 
 
-- 🌱 I’m currently learning Flutter and Reactjs
-
--->
+- 🌱 I’m currently learning frontend and backend
