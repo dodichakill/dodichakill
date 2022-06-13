@@ -12,4 +12,4 @@
 Here are some ideas to get you started:
 
 
-- 🌱 I’m currently learning frontend and backend
+- 🌱 I’m currently learning frontend, backend, mobile developer
