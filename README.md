@@ -65,7 +65,7 @@ I am a Fullstack Web Developer <img src="https://media.giphy.com/media/3rTUAjzVs
 
 ### :hammer_and_wrench: Languages and Tools :
 
-<div style="background: white">
+<div style="background: #fff">
   <img src="https://github.com/devicons/devicon/blob/master/icons/cplusplus/cplusplus-original.svg" title="cplusplus" alt="cplusplus" width="40" height="40"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/bash/bash-original.svg" title="bash" alt="bash" width="40" height="40"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/css3/css3-original.svg"  title="CSS3" alt="CSS" width="40" height="40"/>&nbsp;
