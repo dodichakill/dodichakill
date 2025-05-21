@@ -110,13 +110,12 @@ I am a Fullstack Web Developer <img src="https://media.giphy.com/media/3rTUAjzVs
 ---
   
 ### :fire: My Stats :
-<div align="left">
-[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=dodichakill&theme=neon&hide_border=true&border_radius=5)](https://git.io/streak-stats)
-</div>
 
-<div align="right">
+[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=dodichakill&theme=neon&hide_border=true&border_radius=5)](https://git.io/streak-stats)
+
+
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=dodichakill&layout=compact&theme=vision-friendly-dark)](https://github.com/anuraghazra/github-readme-stats)
-</div>
+
 
   
 
