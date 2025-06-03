@@ -111,7 +111,7 @@ I am a Fullstack Web Developer <img src="https://media.giphy.com/media/3rTUAjzVs
 
 ### 🎮 Play Game with Me :
 
-<img src="https://raw.githubusercontent.com/dodichakill/dodichakill/output/snake.svg" alt="Snake animation" />
+<!-- <img src="https://raw.githubusercontent.com/dodichakill/dodichakill/output/snake.svg" alt="Snake animation" /> -->
 
 ###
 
