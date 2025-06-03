@@ -49,9 +49,6 @@ I am a Fullstack Web Developer <img src="https://media.giphy.com/media/3rTUAjzVs
 - :seedling: Exploring Software Developer Technology and Web3 Enthusiast.
 
 - :zap: Long life learner | Learning is a must and being smart is a bonus.
-
-- :mailbox:How to reach me: [![Linkedin Badge](https://img.shields.io/badge/-dodi-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/dodi-dev/)
-  
 ---
 
 ### :hammer_and_wrench: Languages and Tools :
