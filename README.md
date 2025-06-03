@@ -46,7 +46,7 @@ I am a Fullstack Web Developer <img src="https://media.giphy.com/media/3rTUAjzVs
   
 - 🦅: I’m a student majoring in informatics engineering who is very interested in the world of programming.
 
-- :seedling: Exploring Web Developer Technology and Tools.
+- :seedling: Exploring Software Developer Technology and Web3 Enthusiast.
 
 - :zap: In my free time, I learn about more technology in web development ecosystem.
 
