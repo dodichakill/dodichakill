@@ -40,15 +40,6 @@ Here are some ideas to get you started:
 </div>
 
 <br>
-
-<h1 align="center"> Hi there 👋 </h1>
-<h3 align="center"> I'am Fullstack Web Developer <h3>
-  
-<div align="center">
-  <img src="https://media.giphy.com/media/dWesBcTLavkZuG35MI/giphy.gif" width="600" height="300"/>
-</div>
-
----
   
 ### :man_technologist: About Me :
 I am a Fullstack Web Developer <img src="https://media.giphy.com/media/3rTUAjzVs1eEtGpkJp/giphy.gif" width="30"> from Indonesia.
@@ -111,11 +102,25 @@ I am a Fullstack Web Developer <img src="https://media.giphy.com/media/3rTUAjzVs
   
 ### :fire: My Stats :
 
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=dodichakill&layout=compact&theme=vision-friendly-dark)](https://github.com/anuraghazra/github-readme-stats)
+![Dodi GitHub stats](https://github-readme-stats.vercel.app/api?username=dodichakill&show_icons=true&theme=highcontrast&hide=issues)
+
 [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=dodichakill&theme=neon&hide_border=true&border_radius=5)](https://git.io/streak-stats)
 
+---
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=dodichakill&layout=compact&theme=vision-friendly-dark)](https://github.com/anuraghazra/github-readme-stats)
+### 🎮 Play Game with Me :
 
+<img src="https://raw.githubusercontent.com/https://github.com/dodichakill/https://github.com/dodichakill/output/snake.svg" alt="Snake animation" />
 
+###
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/https://github.com/dodichakill/https://github.com/dodichakill/output/pacman-contribution-graph-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/https://github.com/dodichakill/https://github.com/dodichakill/output/pacman-contribution-graph.svg">
+  <img alt="pacman contribution graph" src="https://raw.githubusercontent.com/https://github.com/dodichakill/https://github.com/dodichakill/output/pacman-contribution-graph.svg">
+</picture>
+
+###
   
 
