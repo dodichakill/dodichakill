@@ -111,14 +111,14 @@ I am a Fullstack Web Developer <img src="https://media.giphy.com/media/3rTUAjzVs
 
 ### 🎮 Play Game with Me :
 
-<img src="https://raw.githubusercontent.com/https://github.com/dodichakill/https://github.com/dodichakill/output/snake.svg" alt="Snake animation" />
+<img src="https://raw.githubusercontent.com/dodichakill/output/snake.svg" alt="Snake animation" />
 
 ###
 
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/https://github.com/dodichakill/https://github.com/dodichakill/output/pacman-contribution-graph-dark.svg">
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/https://github.com/dodichakill/https://github.com/dodichakill/output/pacman-contribution-graph.svg">
-  <img alt="pacman contribution graph" src="https://raw.githubusercontent.com/https://github.com/dodichakill/https://github.com/dodichakill/output/pacman-contribution-graph.svg">
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/dodichakill/output/pacman-contribution-graph-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/dodichakill/output/pacman-contribution-graph.svg">
+  <img alt="pacman contribution graph" src="https://raw.githubusercontent.com/dodichakill/output/pacman-contribution-graph.svg">
 </picture>
 
 ###
