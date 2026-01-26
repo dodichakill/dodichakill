@@ -100,30 +100,3 @@ I am a Fullstack Web Developer <img src="https://media.giphy.com/media/3rTUAjzVs
   <img src="https://github.com/devicons/devicon/blob/master/icons/nano/nano-original.svg" title="nano" alt="nano" width="40" height="40"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/notion/notion-original.svg" title="notion" alt="notion" width="40" height="40"/>&nbsp;
 </div>
-
----
-  
-### :fire: My Stats :
-
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=dodichakill&layout=compact&theme=vision-friendly-dark)](https://github.com/anuraghazra/github-readme-stats)
-![Dodi GitHub stats](https://github-readme-stats.vercel.app/api?username=dodichakill&show_icons=true&theme=highcontrast&hide=issues)
-
-[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=dodichakill&theme=neon&hide_border=true&border_radius=5)](https://git.io/streak-stats)
-
----
-
-### 🎮 Play Game with Me :
-
-<!-- <img src="https://raw.githubusercontent.com/dodichakill/dodichakill/output/snake.svg" alt="Snake animation" /> -->
-
-###
-
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/dodichakill/dodichakill/output/pacman-contribution-graph-dark.svg">
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/dodichakill/dodichakill/output/pacman-contribution-graph.svg">
-  <img alt="pacman contribution graph" src="https://raw.githubusercontent.com/dodichakill/dodichakill/output/pacman-contribution-graph.svg">
-</picture>
-
-###
-  
-
